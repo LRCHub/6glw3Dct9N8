@@ -1,4 +1,4 @@
-# Leonald – Flower（feat. 3House、BUGS）
+# Leonald – Flower
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 

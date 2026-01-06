@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Flower（feat. 3House、BUGS）",
+  "base_artist": "Leonald",
+  "createdAt": "2026-01-06T02:56:58.177262Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flower (feat. 3House & BUGS)",
+      "artist": "Leonald",
+      "has_synced": false,
+      "path": "select/pl_01_Flower_(feat._3House_&_BUGS)_Leonald.txt"
+    }
+  ]
+}
